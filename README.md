@@ -15,7 +15,9 @@ I am a software engineer and architect who has spent a large portion of my 5+ ye
 
 ### Platforms & Frameworks
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/kafka-%236DB33F.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%23326ce5.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## Contact
