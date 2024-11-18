@@ -1,7 +1,7 @@
 # Waqas Dilawar Daha
 Builder of platforms, Commander of processors, Teacher of Minds, Perpetual Student.
 
-Current: Software Developer @ [Unifonic](https://www.unifonic.com/)
+Current: Senior Software Engineer @ [Unifonic](https://www.unifonic.com/)
 
 Ex: [Contour Software](https://contour-software.com/), [Moftak Solutions](https://moftak.com/)
 
