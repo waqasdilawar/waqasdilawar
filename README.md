@@ -1,12 +1,13 @@
-# Waqas Dilawar Daha
+# Waqas Dilawar
 Builder of platforms, Commander of processors, Teacher of Minds, Perpetual Student.
 
-Current: Senior Software Engineer @ [Unifonic](https://www.unifonic.com/)
+Current: Staff Software Engineer @ [Unifonic](https://www.unifonic.com/)
 
 Ex: [Contour Software](https://contour-software.com/), [Moftak Solutions](https://moftak.com/)
 
 ## About Me
-I am a senior software engineer and architect who has spent much of my 8+ year career building distributed platforms on both public clouds. I love working with computers, but solving real problems that impact people makes me love my job even more. My experiences and tenure afford me the greatest of opportunities, and that is mentoring and teaching. I have many courses on [Youtube](https://www.youtube.com/channel/UCIOiNJquF-ZZ_QvFVdHTImg) and often use my personal GitHub repos to explain software problems and solutions through my exercises. 
+Staff Software Engineer & Architect with 8+ years of experience designing and building scalable distributed platforms on public clouds. I'm driven by the impact of technology on people and am dedicated to empowering others through mentorship and teaching. My GitHub repos showcase practical examples and learning exercises. [Learn with Waqas Dilawar on Youtube](https://www.youtube.com/channel/UCIOiNJquF-ZZ_QvFVdHTImg)
+
 
 ## Development
 ### Languages
@@ -22,6 +23,8 @@ I am a senior software engineer and architect who has spent much of my 8+ year c
 
 ## Contact
 
-Twitter: [@waqasdaha](https://twitter.com/waqasdaha)
+Twitter: [@waqasdaha](https://x.com/waqasdaha)
 
 LinkedIn: [Waqas Dilawar](https://www.linkedin.com/in/muhammad-waqas-dilawar-a721b8105/)
+
+BlueSky: [Waqas Dilawar](https://bsky.app/profile/waqasdaha.bsky.social)
