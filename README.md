@@ -9,7 +9,7 @@ Currently Staff Software Engineer at [Unifonic](https://www.unifonic.com/). Prev
 ### 🤝 Connect with me
 
 - Website: https://waqasdilawar.github.io
-- YouTube: [Learn with Waqas Dilawar](https://www.youtube.com/channel/UCIOiNJquF-ZZ_QvFVdHTImg)
+- YouTube: [Learn with Waqas Dilawar](https://www.youtube.com/@learnwithwaqasdilawar4529)
 - LinkedIn: [Waqas Dilawar](https://www.linkedin.com/in/muhammad-waqas-dilawar-a721b8105/)
 - X: [@waqasdaha](https://x.com/waqasdaha)
 - Bluesky: [waqasdaha.bsky.social](https://bsky.app/profile/waqasdaha.bsky.social)
