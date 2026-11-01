@@ -1,30 +1,21 @@
-# Waqas Dilawar
-Builder of platforms, Commander of processors, Teacher of Minds, Perpetual Student.
+### Hi there 👋
 
-Current: Staff Software Engineer @ [Unifonic](https://www.unifonic.com/)
+I'm Waqas, a Staff Software Engineer in Lahore, Pakistan. I build real-time data platforms with Apache Flink, Kafka, ClickHouse and Apache Iceberg, on Java and Spring Boot. I like teaching, and I hope one of my videos or repos helps you solve a problem or learn something new.
 
-Ex: [Contour Software](https://contour-software.com/), [Moftak Solutions](https://moftak.com/)
+Currently Staff Software Engineer at [Unifonic](https://www.unifonic.com/). Previously [Contour Software](https://contour-software.com/) and [Moftak Solutions](https://moftak.com/).
 
-## About Me
-Staff Software Engineer & Architect with 8+ years of experience designing and building scalable distributed platforms on public clouds. I'm driven by the impact of technology on people and am dedicated to empowering others through mentorship and teaching. My GitHub repos showcase practical examples and learning exercises. [Learn with Waqas Dilawar on Youtube](https://www.youtube.com/channel/UCIOiNJquF-ZZ_QvFVdHTImg)
+![Profile header](./profile-header.png)
 
+### 🤝 Connect with me
 
-## Development
-### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+- Website: https://waqasdilawar.github.io
+- YouTube: [Learn with Waqas Dilawar](https://www.youtube.com/@learnwithwaqasdilawar4529)
+- LinkedIn: [Waqas Dilawar](https://www.linkedin.com/in/muhammad-waqas-dilawar-a721b8105/)
+- X: [@waqasdaha](https://x.com/waqasdaha)
+- Bluesky: [waqasdaha.bsky.social](https://bsky.app/profile/waqasdaha.bsky.social)
+- Stack Overflow: [Muhammad Waqas Dilawar](https://stackoverflow.com/users/6332074/muhammad-waqas-dilawar)
 
-### Platforms & Frameworks
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/kafka-%236DB33F.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%23326ce5.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+### 🖥 Latest YouTube videos
 
-## Contact
-
-Twitter: [@waqasdaha](https://x.com/waqasdaha)
-
-LinkedIn: [Waqas Dilawar](https://www.linkedin.com/in/muhammad-waqas-dilawar-a721b8105/)
-
-BlueSky: [Waqas Dilawar](https://bsky.app/profile/waqasdaha.bsky.social)
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
